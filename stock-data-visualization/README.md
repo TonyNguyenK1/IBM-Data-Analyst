@@ -25,7 +25,7 @@ This project focuses on extracting and visualizing stock data using Python. It a
      - **Historical Revenue**: Shows revenue trends for the same period.
 
 3. **Function Highlight**:
-   - `make_graph`: Creates interactive or static visualizations based on libraries like Plotly or Matplotlib.
+   - `make_graph_matplotlib`: Creates interactive or static visualizations based on libraries like Plotly or Matplotlib.
 
 ## Requirements
 
