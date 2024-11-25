@@ -53,9 +53,11 @@ To run this project, you'll need the following Python libraries:
    pip install -r requirements.txt
    ```
 4. Run the notebook:
-   ```bash
+  ```bash
   jupyter notebook
   ```
+  
+
 ## Results
 The analysis provides insights into the most significant factors affecting insurance costs. It also delivers a predictive model that estimates costs based on provided features.
 
