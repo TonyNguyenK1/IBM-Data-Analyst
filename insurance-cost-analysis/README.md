@@ -42,7 +42,7 @@ To run this project, you'll need the following Python libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/insurance-cost-analysis.git
+   git clone https://github.com/TonyNguyenK1/IBM-Data-Analyst-Projects/insurance-cost-analysis.git
    ```
 2. Navigate to the directory:
    ```bash
